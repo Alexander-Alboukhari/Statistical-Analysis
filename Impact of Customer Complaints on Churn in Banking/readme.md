@@ -1,8 +1,7 @@
-Project Summary: Analysis of Bank Customer Churn and Complaints
+ Analysis of Bank Customer Churn and Complaints
 
 Project Title**: Impact of Customer Complaints on Churn in Banking
 
-**Author**: Alexander Alboukhari
 
 **Abstract**:
 This project investigates the relationship between customer complaints and churn in the banking sector, analyzing how various demographic and financial characteristics influence customer behavior. The study aims to understand the factors driving customer exits and to provide actionable insights for improving customer retention strategies.
