@@ -1,6 +1,6 @@
  Analysis of Bank Customer Churn and Complaints
 
-Project Title**: Impact of Customer Complaints on Churn in Banking
+**Project Title**: Impact of Customer Complaints on Churn in Banking
 
 
 **Abstract**:
